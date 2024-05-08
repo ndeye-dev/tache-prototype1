@@ -1,0 +1,60 @@
+
+#navbar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color: #FFF;
+}
+.underline{
+    margin-left: 30%;
+    font-size: 16px;
+}
+
+/* 2section */
+.class-sus{
+    background-color: #0a7f6f;
+    border-radius: 10px;
+    padding: 6rem;
+    color: #FFF;
+}
+.img{
+    width: 17%;
+}
+/* section3 */
+.code{
+    width: 30%;
+}
+.left{
+    margin-left: 37%;
+}
+.lefttt{
+    margin-left: 45%;
+}
+.fonte{
+    font-size: 60px;
+    font-weight: bold;
+}
+/* section4 */
+.diplome, .activite{
+    background-color: #E53935;
+    color: #FFF;
+}
+.font{
+    font-size: 30px;
+}
+/* section6 */
+.point{
+
+    content: "";
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    background-color: gray;
+   
+}
+/* footerr  */
+.footer{
+    background-color: #0a7f6f;
+    color: #FFF;
+
+}
